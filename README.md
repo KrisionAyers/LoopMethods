@@ -106,4 +106,8 @@ other people to see and to write. It makes it to where you don't have to copy/pa
 over and over again, instead you can make it to where you can "loop" which makes the code repeat the same 
 amount of numbers with less effort. Methods house a set amount of information making them almost like declaring
  a chunck of data as the variable.
+<<<<<<< HEAD
  ```
+=======
+ ```
+>>>>>>> cb51fb28d92879c937fd1816f846a7af4885346b
