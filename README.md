@@ -112,3 +112,4 @@ over and over again, instead you can make it to where you can "loop" which makes
 amount of numbers with less effort. Methods house a set amount of information making them almost like declaring
  a chunck of data as the variable.
  ```# ForInstructions 
+# ForInstructions 
