@@ -5,6 +5,11 @@
 
 Using Methods and Loops instead of just hardcoding it.
 ```
+##  References & Literature
+```
+
+*   Liang, Y. (2014). *Introduction to Java programming: Comprehensive version* (Tenth ed.). 
+```
 
 ##Code
 ```java
