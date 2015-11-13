@@ -1,8 +1,3 @@
-## LoopMethods 
-``` 
-
-#code
-```
 import java.util.Scanner;
 public class LoopMethods {
 
@@ -74,19 +69,3 @@ public class LoopMethods {
 				}
 			}
 	}
-
-#Console Output
-
-Round 1 of 4. Add 2 and 3: 5
-Correct. Your score went from 0 to 5. Your hardness was 5 and is now 10.
-Round 2 of 4. Add 0 and 1: 0
-Nice try, but the correct answer was 1.
-Your score is 5. Your hardness was 10 and is now 5.
-Round 3 of 4. Add 0 and 0: 15
-Nice try, but the correct answer was 0.
-Your score is 5. Your hardness was 5 and is now 5.
-Round 4 of 4. Add 1 and 2: 3
-Correct. Your score went from 5 to 10. 
-The game is complete. Your final score was 10
-
-#Summary
