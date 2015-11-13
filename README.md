@@ -103,6 +103,71 @@ Correct. Your score went from 5 to 10.
 The game is complete. Your final score was 10
 ```
 
+##Command prompt
+```
+
+C:\Users\KAyers>E:
+
+E:\>cd Workspace
+
+E:\Workspace>cd LoopMethods
+
+E:\Workspace\LoopMethods>git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
+E:\Workspace\LoopMethods>git config user.name "KrisionAyers"
+
+E:\Workspace\LoopMethods>git config user.ermail "ayersk@student.swosu.edu"
+
+E:\Workspace\LoopMethods>echo # LoopMethods >> README.md
+
+E:\Workspace\LoopMethods>git init
+Reinitialized existing Git repository in E:/Workspace/LoopMethods/.git/
+
+E:\Workspace\LoopMethods>git add README.md
+
+E:\Workspace\LoopMethods>git commit -m "first commit"
+[master 47f4528] first commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+E:\Workspace\LoopMethods>git remote add origin https://github.com/KrisionAyers/F
+orInstructions.git
+fatal: remote origin already exists.
+
+E:\Workspace\LoopMethods>git push -u origin master
+Username for 'https://github.com': wd
+Password for 'https://wd@github.com':
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/KrisionAyers/LoopMethods.gi
+t/'
+
+E:\Workspace\LoopMethods>echo # LoopMethods >> README.md
+
+E:\Workspace\LoopMethods>git init
+Reinitialized existing Git repository in E:/Workspace/LoopMethods/.git/
+
+E:\Workspace\LoopMethods>git add README.md
+
+E:\Workspace\LoopMethods>git commit -m "first commit"
+[master e88d068] first commit
+ 1 file changed, 1 insertion(+)
+
+E:\Workspace\LoopMethods>git remote add origin https://github.com/KrisionAyers/LoopMethods.git
+fatal: remote origin already exists.
+
+E:\Workspace\LoopMethods>git push -u origin master
+Username for 'https://github.com': sdf
+Password for 'https://sdf@github.com':
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/KrisionAyers/LoopMethods.gi
+t/'
+
+E:\Workspace\LoopMethods>
+```
+
+
 ##Summary
 ```
 
@@ -111,5 +176,4 @@ other people to see and to write. It makes it to where you don't have to copy/pa
 over and over again, instead you can make it to where you can "loop" which makes the code repeat the same 
 amount of numbers with less effort. Methods house a set amount of information making them almost like declaring
  a chunck of data as the variable.
- ```# ForInstructions 
-# ForInstructions 
+ ```
