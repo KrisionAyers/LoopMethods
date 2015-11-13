@@ -1,13 +1,12 @@
 #LoopMethods 
-``` 
-
-## introduction
+ 
+##Introduction
 ```
 
 Using Methods and Loops instead of just hardcoding it.
+```
 
-
-## code
+##Code
 ```java
 
 import java.util.Scanner;
@@ -81,8 +80,9 @@ public class LoopMethods {
 				}
 			}
 	}
+```
 
-## Console Output
+##Console Output
 ```
 
 Round 1 of 4. Add 2 and 3: 5
@@ -96,6 +96,7 @@ Your score is 5. Your hardness was 5 and is now 5.
 Round 4 of 4. Add 1 and 2: 3
 Correct. Your score went from 5 to 10. 
 The game is complete. Your final score was 10
+```
 
 ## Summary
 ```
@@ -105,3 +106,4 @@ other people to see and to write. It makes it to where you don't have to copy/pa
 over and over again, instead you can make it to where you can "loop" which makes the code repeat the same 
 amount of numbers with less effort. Methods house a set amount of information making them almost like declaring
  a chunck of data as the variable.
+ ```
