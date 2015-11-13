@@ -1,14 +1,14 @@
 #LoopMethods 
 ``` 
 
-##introduction
+## introduction
 ```
 
 Using Methods and Loops instead of just hardcoding it.
 
 
-##code
-```
+## code
+```java
 
 import java.util.Scanner;
 public class LoopMethods {
@@ -82,7 +82,7 @@ public class LoopMethods {
 			}
 	}
 
-##Console Output
+## Console Output
 ```
 
 Round 1 of 4. Add 2 and 3: 5
@@ -97,7 +97,7 @@ Round 4 of 4. Add 1 and 2: 3
 Correct. Your score went from 5 to 10. 
 The game is complete. Your final score was 10
 
-##Summary
+## Summary
 ```
 
 We saw the ease of use to use methods and loops rather than just hardcoding it. It makes it alot simpler for 
